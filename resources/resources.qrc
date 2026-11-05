@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file alias="translations/ct_zh_CN.qm">../translations/ct_zh_CN.qm</file>
+    <file alias="translations/ct_zh_TW.qm">../translations/ct_zh_TW.qm</file>
+    <file alias="translations/ct_ja_JP.qm">../translations/ct_ja_JP.qm</file>
+    <file alias="translations/ct_ru_RU.qm">../translations/ct_ru_RU.qm</file>
+    <file alias="icons/home.svg">icons/home.svg</file>
+    <file alias="icons/apps.svg">icons/apps.svg</file>
+    <file alias="icons/image.svg">icons/image.svg</file>
+    <file alias="icons/edit.svg">icons/edit.svg</file>
+    <file alias="icons/key.svg">icons/key.svg</file>
+    <file alias="icons/terminal.svg">icons/terminal.svg</file>
+    <file alias="icons/patches.svg">icons/patches.svg</file>
+    <file alias="icons/build.svg">icons/build.svg</file>
+    <file alias="icons/search.svg">icons/search.svg</file>
+    <file alias="icons/settings.svg">icons/settings.svg</file>
+    <file alias="icons/info.svg">icons/info.svg</file>
+    <file alias="icons/check_white.svg">icons/check_white.svg</file>
+    <file alias="icons/app_icon.png">icons/app_icon.png</file>
+</qresource>
+</RCC>
